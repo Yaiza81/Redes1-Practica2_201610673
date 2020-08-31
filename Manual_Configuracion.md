@@ -208,14 +208,14 @@ Para poder conectarlos
    
 ### Comprobar  el estado de la conexión 
   ping ip 
-        * ping 192.168.10.2
-        * ping 192.168.10.3
-        * ping 192.168.10.66
-        * ping 192.168.10.67
-        * ping 192.168.10.68
-        * ping 192.168.10.130
+ * ping 192.168.10.2
+ * ping 192.168.10.3
+ * ping 192.168.10.66
+ * ping 192.168.10.67
+ * ping 192.168.10.68
+ * ping 192.168.10.130
   
    ![image](Imagenes/ping1.PNG)
   
-  ![image](Imagenes/ping2.PNG)
+    ![image](Imagenes/ping2.PNG)
     
