@@ -30,4 +30,4 @@
   ![image](Imagenes/vpc5_c.png)
   
 ## Tiny Linux 
-  ![image](Imagenes/tiny.png)
+  ![image](Imagenes/tiny_c.png)
